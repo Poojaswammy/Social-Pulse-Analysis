@@ -1,0 +1,1 @@
+For this study, we selected a diverse dataset containing a large volume of social media posts across multiple platforms, including Twitter, Instagram, and Facebook. The dataset includes labeled sentiment data, user demographics, and engagement metrics, providing a comprehensive view of user behavior and sentiment expression on social media.
